@@ -11,5 +11,14 @@ margin-left: 200px;
 background-image: url(../images/galaxy.jpg);
 box-shadow: 2px 1px 15px 3px #fff8af;
 background-size: cover;
-
+position: relative;
+overflow: hidden;
 }
+.astro {background-image: url(../images/astronaut.jpg);
+position: absolute;
+width: 100px;
+height: auto;
+top: 40%;
+left: 5%;
+}
+
