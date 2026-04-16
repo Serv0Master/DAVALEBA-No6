@@ -8,6 +8,8 @@ width: 150vh;
 border: 1px solid black;
 margin-top: 80px;
 margin-left: 200px;
-
+background-image: url(../images/galaxy.jpg);
 box-shadow: 2px 1px 15px 3px #fff8af;
+background-size: cover;
+
 }
